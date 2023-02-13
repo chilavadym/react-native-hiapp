@@ -5,8 +5,6 @@
 
 [![preview](https://i.imgur.com/lrKgIMO.png)](https://youtu.be/C2hX8ruKS9o) 
 
-Mirrors: [秒拍](http://t.cn/Aim7kcIf) 
-
 ## Requirements
 
 [React Native](http://facebook.github.io/react-native/docs/getting-started.html) `0.61.1` (follow iOS and Android guides)
@@ -45,7 +43,3 @@ Mirrors: [秒拍](http://t.cn/Aim7kcIf)
   ```
   $ yarn android
   ```
-
-## License
-
-Copyright (c) 2016 - 2019 Belin Chung. MIT Licensed, see [LICENSE](https://github.com/BelinChung/react-native-hiapp/blob/master/LICENSE) for details.
